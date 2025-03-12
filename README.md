@@ -15,7 +15,7 @@ You are required to create a public abstract class named `BankAccount` in Java, 
 ### BankAccount Class Diagram
 
 <p align="center">
-  <img src="C:\Users\prath\OneDrive\Pictures\Screenshots\Screenshot 2025-03-12 150259.png" alt="UML Class Diagram: BankAccount">
+  <img src=".\Screenshots\Screenshot 2025-03-12 150259.png" alt="UML Class Diagram: BankAccount">
 </p>
 
 ### Structure of the Fields
