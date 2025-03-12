@@ -24,7 +24,7 @@ You are required to create a public abstract class named BankAccount in Java, fo
 # Structure of the Fields
 As described by the UML Class Diagram, your BankAccount class must have the following fields:
 
-
+//
 protected String accountID = "0000-0000-0000-0000";
 
 protected double interestRate = 0.0;
@@ -33,7 +33,7 @@ protected int balance = 0;
 
 # Structure of the Methods
 As described by the UML Class Diagram, your BankAccount class must have the following methods:
-
+//
 public boolean credit(int amount);
 public abstract boolean debit(int amount);
 public int getBalance();
@@ -91,7 +91,8 @@ public abstract String accountInfo();
 
 6] Use the TestAccount and Main classes to test your BankAccount and its subclasses.
 
-# Example Usage
+# Example Usage 
+
 // Sample usage of BankAccount and its subclasses
 public class Main {
     public static void main(String[] args) {
