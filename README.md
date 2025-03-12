@@ -14,10 +14,8 @@ You are required to create a public abstract class named `BankAccount` in Java, 
 
 ### BankAccount Class Diagram
 
-<p align="center">
-  ![Screenshot 2025-03-12 150259](https://github.com/user-attachments/assets/c2d9c298-8ab4-4187-9550-92ffa81f6ac6)
+![Screenshot 2025-03-12 150259](https://github.com/user-attachments/assets/a3ffd3dd-9b2c-43ad-b480-c5eb50dd2486)
 
-</p>
 
 ### Structure of the Fields
 As described by the UML Class Diagram, your `BankAccount` class must have the following fields:
