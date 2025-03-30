@@ -1,6 +1,6 @@
 // Abstract class BankAccount that defines the basic structure for all bank accounts
  
-public abstract class BankAccount {
+public abstract class BankAccount { 
     protected String accountID = "0000-0000-0000-0000"; // Default account ID
     protected double interestRate = 0.0; // Default interest rate
     protected int balance = 0; // Balance of the account in pennies
