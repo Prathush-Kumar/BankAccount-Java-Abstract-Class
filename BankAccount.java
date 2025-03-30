@@ -1,4 +1,4 @@
-// Abstract class BankAccount that defines the basic structure for all bank accounts
+// Abstract class BankAccount that defines the basic structure for all bank accounts 
  
 public abstract class BankAccount { 
     protected String accountID = "0000-0000-0000-0000"; // Default account ID  
