@@ -1,7 +1,7 @@
 # BankAccount Java Abstract Class
 
 ## Required Skills Inventory
-To complete this task, you should be familiar with the following concepts and skills:   
+To complete this task, you should be familiar with the following concepts and skills:    
 - Java programming language
 
 - Object-oriented programming (OOP) concepts
